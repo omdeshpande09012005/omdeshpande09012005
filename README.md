@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Om Deshpande</h1>
 <p align="center">
-  <i>A passionate Full-Stack Developer and Tech Enthusiast from Pune, India</i>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Engineer;Web+Developer;Quick+Learner;Cloud+Engineer" alt="Typing SVG" />
 </p>
-
----
 
 ### 🚀 About Me
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** at MIT-WPU, Pune
